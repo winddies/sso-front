@@ -90,3 +90,4 @@ sw.*
 vendor
 
 .vscode
+yarn-error.log
